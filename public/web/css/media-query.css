@@ -1,0 +1,305 @@
+@media screen and (min-width: 200px) and (max-width: 767px) {
+
+
+	.section_2{
+		width: 100%;
+	}
+
+	.section_1 .col-10.col-sm-8.col-lg-6{
+		display: none;
+	}
+
+	.section_2 .left_1{
+		width: 100%;
+		float:none;
+		padding:0;
+	}
+
+	.section_2 .right_1{
+		display: none;
+	}
+
+	.section_3{
+		width: 100%;
+	}
+
+	.section_3 img{
+		height: auto;
+		width: 90%;
+	}
+
+	.about_text_gray br{
+		display: none;
+	}
+
+	.container.servicesSection1{
+		width: 90%;
+	}
+
+	.container.servicesSection1 .row.featurette .col-md-6 h2{
+		margin-top: 10px;
+	}
+
+	.container.servicesSection1 .row.featurette .col-md-6 img{
+		width: 100%;
+	}
+
+	.container.portfolio_section1{
+		width: 90%;
+		padding:20px 15px;
+	}
+
+	.portfolio_one{
+		width: 100%;
+		margin:0;
+		margin-bottom: 30px;
+	}
+
+	.abtSection2 .left_sec{
+		width: 100%;
+	}
+
+	.abtSection2 .right_sec{
+		width: 100%;
+	}
+
+	.container.numbersSection3 ul li{
+		width: 100%;
+		margin-bottom: 30px;
+	}
+
+	.ourCoreValueSec4 .feature.col{
+		text-align: center;
+	}
+
+	.container.letsTalk .map01 iframe{
+		width: 100%;
+	}
+
+	.contactInformation_inner ul li{
+		width: 86%;
+	}
+
+	.container.letsTalk .contactForm{
+		margin-left: 0;
+		width: 100%;
+	}
+
+	.container.letsTalk .contactForm .formRow1 input{
+		width: 100%;
+	}
+
+	.formRow2 select, .formRow3 select{
+		width: 100%;
+	}
+
+	.container.letsTalk .contactForm .formRow2 input, .container.letsTalk .contactForm .formRow3 input, .container.letsTalk .contactForm .formRow4 input{
+		width: 100%;
+		margin-top: 20px;
+	}
+	.container.letsTalk .contactForm .formRow5 textarea{
+		width: 100%;
+	}
+
+	header.p-3{
+		padding:0 !important;
+	}
+
+	.main_header_desktop .ngg_logo{
+		display: none;
+	}
+
+	.main_header_desktop ul.ngg_nav{
+		display: none;
+		position: fixed;
+        top: 0;
+        left: 0;
+        background: #000;
+        padding: 20px 0;
+        z-index: 9999;
+        height: 100%;
+        top: 70px;
+        overflow-y: scroll;
+	}
+
+	header .nav li {
+	    padding: 8px 10px;
+	}
+
+	.mobile_nav{
+    	display: block;
+    	padding:20px;
+	}
+
+	.mobile_nav .hamburger{
+		display: inline-block;
+	}
+
+	.mobile_nav .hamburger{
+		display: inline-block;
+		color: #fff;
+	}
+
+	.mobile_nav .logo_01{
+		display: inline-block;
+        margin-left: 20px;
+	}
+
+	.mobile_nav .hamburger img{
+		width: 35px;
+	}
+
+	.position_toggle{
+		position: fixed;
+	}
+
+	header .nav li .subMenu01{
+		display: none;
+	}
+
+	.bi.bi-chevron-down{
+		display: none;
+	}
+	.dedicatedResource .dedicatedResource_lft{
+		width: 100%;
+	}
+
+	.container.dedicatedResource{
+		padding:40px 20px;
+	}
+
+	.dedicatedResource .dedicatedResource_rght{
+		width: 100%;
+	}
+
+	.whyOurWebsite .lft01{
+		width: 100%;
+
+	}
+
+	.whyOurWebsite .middle01{
+		width: 100%;
+	}
+
+	.whyOurWebsite .right01{
+		width: 100%;
+		margin-top: 30px;
+	}
+
+	.dedicatedResource .dedicatedResource_rght img{ 
+		width: 100%;
+	}
+
+	.container.letsTalk .map01{
+		width: 100%;
+	}
+
+	.container.letsTalk img{
+		width: 100%;
+	}	
+
+	.formRow2, .formRow1, .formRow3, .formRow4, .formRow5{
+		margin: 0 !important;
+	}
+
+	.container.letsTalk .contactForm .formRow4 input{
+		margin:0;
+	}
+
+	.container.letsTalk .contactForm input, .container.letsTalk .contactForm textarea, .container.letsTalk .contactForm select{
+		background-color: rgba(255, 255, 255, 0.1) !important;
+		margin-top: 20px !important;
+	}
+
+	.container.letsTalk{
+		padding: 0;
+		width: 90%;
+	}
+	header .nav li:hover .subMenu01{
+    	display: inherit;
+	}
+	header .nav li .subMenu01{
+		width: 100%;
+		position: inherit;
+	}
+
+	.subMenu01 .subMenu01_inner ul{
+		width: 100%;
+	}
+
+	.container.col-xxl-10.px-4.py-5.section_1{
+		padding-top: 10px !important;
+        padding-bottom: 0 !important;
+	}
+
+	.section_1 span br{
+		display: none;
+
+	}
+
+	.section_1 .col-lg-4.text-center{
+		mrgin-top: 0;
+	}
+
+	.section_1 .col-lg-4.text-center img{
+		width: 100%;
+	}
+	.ai_automation_section_2{
+		padding:20px 0;
+	}
+
+	.ai_automation_section_2 h2{
+		line-height: normal;
+	}
+	.ai_automation_section_2 p{
+		text-align: center;
+	}
+
+	.ai_automation_section_3 p{
+		width:95%;
+		margin:0 auto;
+	}
+
+	.ai_automation_section_3 .row{
+		margin-top: 20px;
+	}
+}
+
+
+@media screen and (min-width: 1280px) and (max-width: 1420px) {
+
+	.section_1 h1{
+		font-size: 45px;
+	}
+
+	.whyOurWebsite p{
+		font-size: 16px;
+		margin-bottom: 0;
+	}
+	.whyOurWebsite{
+		padding-bottom: 20px;
+	}
+
+	.whyOurWebsite .middle01 img{
+		width: 250px;
+	}
+
+	.whyOurWebsite .lft01{
+		display: inline-block;
+		float: none;
+		vertical-align: middle;
+	}
+
+	.whyOurWebsite .middle01{
+		float: none;
+		display: inline-block;
+		vertical-align: middle;
+	}
+
+	.whyOurWebsite .right01{
+		display: inline-block;
+		float: none;
+		vertical-align: middle;
+	}
+
+}
